@@ -24,10 +24,6 @@ Make sure you have the following libraries installed:
 2. Upload a HEIF image when prompted.
 3. The script will display the uploaded image and save it as `converted_image.jpg`.
 
----
-
 ## License
 
 This project is licensed under the MIT License.
-
----
